@@ -3,7 +3,6 @@ from pyautogui import *
 import pyautogui
 import time
 import keyboard
-import random
 import win32api, win32con
 
 #Tile 1 Position: X:  969 Y:  964 RGB: (158, 162, 233)
