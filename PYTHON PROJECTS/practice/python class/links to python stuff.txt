@@ -1,0 +1,5 @@
+slides for everything
+https://docs.google.com/presentation/d/1QiW3Ps0aHbJcXXrcSMPWbVpx5BeqQKFAL2JUs9F8pEU/edit
+
+pygal
+https://www.pygal.org/en/stable/documentation/index.html

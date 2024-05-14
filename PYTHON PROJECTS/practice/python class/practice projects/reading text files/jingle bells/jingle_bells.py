@@ -1,0 +1,15 @@
+f = open("jingle_bells.txt", "a")
+f.write("Dashing through the snow")
+f.write("In a one-horse open sleigh")
+f.write("O'er the fields we go")
+f.write("Laughing all the way")
+f.write("Bells on bob tail [sic] ring")
+f.write("Making spirits bright")
+f.write("What fun it is to ride and sing")
+f.write("A sleighing song tonight!")
+
+f.close()
+
+f = open("jingle_bells.txt", 'r')
+print(f.readlines())
+f.close()

@@ -1,0 +1,8 @@
+ctrl + <-/-> = to skip words
+shift + <-/-> = to highlight words
+ctrl + shift + <-/-> = to highlight and skip words
+alt + shift + scroll wheel = scrolling on the x-axis
+home = beggining of the line of code
+end = end of the line of code
+home + shift = highlighting the line of code to the beginning
+end + shift = highlighting the line of code to the end
