@@ -57,13 +57,9 @@
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "peacock.color": "#007fff",
-  //hides certain files
   "files.exclude": {
-    //hides the exe files
     "**/*.exe": true,
-    //hides the pcb files
     "**/*.pcb": true,
-    //hides the class files
     "**/*.class": true
   }
 }
