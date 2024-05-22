@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Omega/epic_stuff/C++ PROJECTS/practice/fundamentals/variables practice",
-      "program": "c:/Users/Omega/epic_stuff/C++ PROJECTS/practice/fundamentals/variables practice/build/Debug/outDebug",
+      "cwd": "c:/Users/Omega/epic_stuff/C++ PROJECTS/practice/fundamentals/namespaces",
+      "program": "c:/Users/Omega/epic_stuff/C++ PROJECTS/practice/fundamentals/namespaces/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
