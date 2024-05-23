@@ -60,7 +60,8 @@
   "files.exclude": {
     "**/*.exe": true,
     "**/*.pcb": true,
-    "**/*.class": true
+    "**/*.class": true,
+    "**/*.pdb": true
   },
   "files.associations": {
     "array": "cpp",
