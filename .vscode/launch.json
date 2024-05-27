@@ -2,6 +2,41 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "try_and_catch",
+      "request": "launch",
+      "mainClass": "try_and_catch",
+      "projectName": "epic_stuff_e292a7c7"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "super_keyword.Main",
+      "projectName": "epic_stuff_e292a7c7"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "polymorphism.Main",
+      "projectName": "epic_stuff_e292a7c7"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "encapsulation.Main",
+      "projectName": "epic_stuff_e292a7c7"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "inheritance.Main",
+      "projectName": "epic_stuff_e292a7c7"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",

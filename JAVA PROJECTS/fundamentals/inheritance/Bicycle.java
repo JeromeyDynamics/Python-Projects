@@ -1,4 +1,4 @@
-package inheritance_p;
+package inheritance;
 
 public class Bicycle extends Vehicle{
     int wheels = 2;

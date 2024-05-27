@@ -109,5 +109,7 @@
     "stdexcept": "cpp",
     "streambuf": "cpp",
     "typeinfo": "cpp"
-  }
+  },
+  "java.dependency.packagePresentation": "hierarchical",
+  "java.debug.settings.onBuildFailureProceed": true
 }

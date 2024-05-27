@@ -1,6 +1,4 @@
-//find in the future why it only works with debug and run
-
-package inheritance_p;
+package inheritance;
 
 public class Main {
 

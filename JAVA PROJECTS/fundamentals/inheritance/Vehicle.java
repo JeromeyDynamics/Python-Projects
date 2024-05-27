@@ -1,4 +1,4 @@
-package inheritance_p;
+package inheritance;
 
 public class Vehicle {
     double speed;
