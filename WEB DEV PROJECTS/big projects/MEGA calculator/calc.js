@@ -1,5 +1,6 @@
 //hiding all elements off the start
 document.getElementById("secondaryButtons").style.display = "none";
+
 //gets geometry button element
 const geoB = document.getElementById("geometryButton");
 
@@ -15,7 +16,8 @@ const pythagB = document.getElementById("pythagoreanButton");
 //function for clicking the button
 pythagB.addEventListener("click", function(e) {
     document.getElementById("primaryButtons").style.display = "none";
-    document.getElementById("pythagoreanStuff").style.display = "block";
+    document.getElementById("pythagoreanStuff").style.display = "run-in";
+    console.log(document.getElementById("pythagoreanStuff").style.display);
     console.log("pythagorean button pressed!");
 });
 
@@ -34,6 +36,6 @@ const homeB = document.getElementById("homeButton");
 //function for clicking the button
 homeB.addEventListener("click", function(e) {
     document.getElementById("secondaryButtons").style.display = "none";
-    document.getElementById("primaryButtons").style.display = "block";
+    document.getElementById("primaryButtons").style.display = "initial";
     console.log("home button pressed!");
 });
