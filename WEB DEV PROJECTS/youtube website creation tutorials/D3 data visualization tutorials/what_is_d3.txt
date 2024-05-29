@@ -1,7 +1,0 @@
-what is D3.js?
-    an open source JavaScript library
-    helps creating visual representations of data
-    uses HTML, CSS, and SVG
-    viewable on modern browsers
-    easy to use API
-    official documentation at https://d3js.org

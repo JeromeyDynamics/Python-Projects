@@ -1,6 +1,0 @@
-/*the line in the code for the box: .attr("class", "svg-container")
-gives the box a class which is used for the css file to identify what
- its giving/changing attributes for*/
-.svg-container {
-    background-color: #FFC988;
-    }
