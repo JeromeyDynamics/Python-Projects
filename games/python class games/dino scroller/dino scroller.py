@@ -10,19 +10,19 @@ screen = pygame.display.set_mode((width, length))
 pygame.display.set_caption('Dinosaur Run!')
 
 #background
-background_img = pygame.image.load(r'C:/Users/Omega/Git Hub Repositories/PYTHON PROJECTS/games/python class games/dino scroller/bg.png')
+background_img = pygame.image.load(r'C:\Users\Omega\Git Hub Repositories\Python Projects\games\python class games\dino scroller\bg.png')
 background_x = 0
 background_speed = 2
 
 #Create list with dinosaur images
 dinosaur_imgs = [
-  pygame.image.load(r'C:\Users\Omega\Git Hub Repositories\PYTHON PROJECTS\games\python class games\dino scroller\dino0.png'),
-  pygame.image.load(r'C:\Users\Omega\Git Hub Repositories\PYTHON PROJECTS\games\python class games\dino scroller\dino1.png'),
-  pygame.image.load(r'C:\Users\Omega\Git Hub Repositories\PYTHON PROJECTS\games\python class games\dino scroller\dino2.png')
+  pygame.image.load(r'C:\Users\Omega\Git Hub Repositories\Python Projects\games\python class games\dino scroller\dino0.png'),
+  pygame.image.load(r'C:\Users\Omega\Git Hub Repositories\Python Projects\games\python class games\dino scroller\dino1.png'),
+  pygame.image.load(r'C:\Users\Omega\Git Hub Repositories\Python Projects\games\python class games\dino scroller\dino2.png')
 ]
 
 #load in cactus image
-cactus_img = pygame.transform.scale(pygame.image.load(r'C:\Users\Omega\Git Hub Repositories\PYTHON PROJECTS\games\python class games\dino scroller\cactus.png'), (20,30))
+cactus_img = pygame.transform.scale(pygame.image.load(r'C:\Users\Omega\Git Hub Repositories\Python Projects\games\python class games\dino scroller\cactus.png'), (20,30))
 
 dinosaur_x = 80
 dinosaur_y = 130
