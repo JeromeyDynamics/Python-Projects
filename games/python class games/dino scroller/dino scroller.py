@@ -37,7 +37,7 @@ dinosaur_last_update = 0
 
 #jumping variables
 is_jumping = False
-jump_velocity = -23
+jump_velocity = -15
 jump_height = 200
 current_jump_height = 0
 
@@ -77,12 +77,12 @@ while running:
     #perform the jump
     if is_jumping:
       dinosaur_y += jump_velocity
-      jump_velocity += 1
+      jump_velocity += 0.5            
 
       if dinosaur_y>=130:
         is_jumping = False
         dinosaur_y = 130
-        jump_velocity = -23
+        jump_velocity = -15
 
     #check for collision
     cactus_rect = cactus_img.get_rect(topleft= (cactus_x+25, cactus_y+25))
