@@ -16,7 +16,6 @@ FPS = 60
 
 background_img = pygame.image.load(r'C:\Users\Omega\Downloads\1000_F_372119862_yS6f4QH9wu0Wt5qvm5SO5WUO91VTc29Q.jpg')
 
-
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 pygame.display.set_caption("Frogger Game")
 
